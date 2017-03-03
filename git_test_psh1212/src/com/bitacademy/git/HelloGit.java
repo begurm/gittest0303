@@ -6,6 +6,7 @@ public class HelloGit {
 		System.out.println("안녕 Git");
 		System.out.println("앞으로 친하게 지내자");
 		
+		
 	}
 
 }
